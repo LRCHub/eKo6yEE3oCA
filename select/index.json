@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Seize The Day",
+  "base_artist": "亜咲花",
+  "createdAt": "2025-12-24T14:24:52.217887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seize The Day",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/01_Seize_The_Day_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time To Seize The Day",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom",
+      "has_synced": false,
+      "path": "select/02_Time_To_Seize_The_Day_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seize the Day",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/03_Seize_the_Day_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Carpe Diem (Seize the Day)",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/04_Carpe_Diem_(Seize_the_Day)_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seize the Day",
+      "artist": "Iron Savior",
+      "has_synced": false,
+      "path": "select/05_Seize_the_Day_Iron_Savior.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seize the Day",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/06_Seize_the_Day_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seize The Day",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/07_Seize_The_Day_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seize The Day",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/08_Seize_The_Day_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seize the Day",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/09_Seize_the_Day_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seize The Day",
+      "artist": "Default",
+      "has_synced": true,
+      "path": "select/10_Seize_The_Day_Default.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seize the Day",
+      "artist": "Jonas & The Massive Attraction",
+      "has_synced": true,
+      "path": "select/11_Seize_the_Day_Jonas_&_The_Massive_Attraction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Seize The Day",
+      "artist": "Demons & Wizards",
+      "has_synced": false,
+      "path": "select/12_Seize_The_Day_Demons_&_Wizards.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Seize the day!!",
+      "artist": "Passcode",
+      "has_synced": false,
+      "path": "select/13_Seize_the_day!!_Passcode.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Seize the Day - Live",
+      "artist": "Avenged Sevenfold",
+      "has_synced": false,
+      "path": "select/14_Seize_the_Day_-_Live_Avenged_Sevenfold.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seize The Day (feat. Phoebe Bridgers)",
+      "artist": "Paul McCartney feat. Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/15_Seize_The_Day_(feat._Phoebe_Bridgers)_Paul_McCartney_feat._Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Seize The Day",
+      "artist": "Paul McCartney Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/16_Seize_The_Day_Paul_McCartney_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Newsies Medley: Seize the Day / King of New York / Santa Fe / Carrying the Banner",
+      "artist": "BYU Vocal Point",
+      "has_synced": false,
+      "path": "select/17_Newsies_Medley__Seize_the_Day___King_of_New_York___Santa_Fe___Carrying_the_Banne_BYU_Vocal_Point.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Newsies Medley: Seize the Day / King of New York / Santa Fe / Carrying the Banner",
+      "artist": "Brigham Young University Vocal Point",
+      "has_synced": false,
+      "path": "select/18_Newsies_Medley__Seize_the_Day___King_of_New_York___Santa_Fe___Carrying_the_Banne_Brigham_Young_University_Vocal_Point.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seize The Day",
+      "artist": "亜咲花",
+      "has_synced": false,
+      "path": "select/pl_01_Seize_The_Day_亜咲花.txt"
+    }
+  ]
+}
