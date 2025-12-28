@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Seize The Day",
   "base_artist": "亜咲花",
-  "createdAt": "2025-12-24T14:24:52.217887Z",
+  "createdAt": "2025-12-28T14:06:39.501147Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -97,8 +97,8 @@
       "source": "lrclib",
       "title": "Seize The Day",
       "artist": "Demons & Wizards",
-      "has_synced": false,
-      "path": "select/12_Seize_The_Day_Demons_&_Wizards.txt"
+      "has_synced": true,
+      "path": "select/12_Seize_The_Day_Demons_&_Wizards.lrc"
     },
     {
       "id": "lrclib_13",
